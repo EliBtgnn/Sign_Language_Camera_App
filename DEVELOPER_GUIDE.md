@@ -250,4 +250,3 @@ Some natural directions for extending the project are:
 * [ ] Add signer-independent evaluation
 * [ ] Improve prediction debouncing
 * [ ] Add a real-time performance benchmark
-* [ ] Add a demo video/GIF
